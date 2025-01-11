@@ -1,0 +1,30 @@
+﻿Location_ID;Sampling_date;Latitude;Longitude;River/Creek/Lake;River_system;Origin;n
+N1;Jul-22;33.353808;130.548806;Tachiarai R.;Chikugo;Native;3
+N2;Jul-22;33.338562;130.607943;Chinzei L.;Chikugo;Native;20
+N3;Nov-23;33.3864157;130.68929;Inaibaru R.;Chikugo;Native;8
+N4;Nov-23;33.375972;130.705222;Katsura R.;Chikugo;Native;1
+N5;Nov-23;33.3378342;130.648431;Kose R.;Chikugo;Native;4
+N6;Feb-24;33.190678;130.404056;Yanagawa C.;Chikugo;Native;10
+N7;Jul-22;33.191380;130.255438;Higashiyoka C. (1);Kase;Native;1
+N8;Jul-22;33.19146;130.26385;Higashiyoka C. (2);Kase;Native;6
+N9;Jul-22;33.19415;130.27309;Higashiyoka C. (3);Kase;Native;1
+N10;Jul-22;33.18838;130.25687;Higashiyoka C. (4);Kase;Native;1
+N11;Jul-22;33.18662;130.26027;Higashiyoka C. (5);Kase;Native;1
+N12;Jul-22;33.183544;130.262994;Higashiyoka C. (6);Kase;Native;1
+N13;Jul-22;33.18012;130.27892;Higashiyoka C. (7);Kase;Native;4
+A1;Nov-22;33.580609;130.247061;Susenji R.;Susenji;Alien;10
+A2;Nov-22;33.825675;130.480662;Tsuyazaki C.;Nuyama;Alien;6
+A3;Jun-23;33.893306;130.677175;Onga R. (1);Onga;Alien;2
+A4;Jun-23;33.8241;130.703511;Onga R. (2);Onga;Alien;5
+A5;Jun-23;33.735069;130.726658;Onga R. (3);Onga;Alien;1
+A6;May-23;33.810869;130.702492;Onga R. (4);Onga;Alien;20
+A7;Jun-23;33.724319;130.672453;Inunaki R.;Onga;Alien;8
+A8;Feb-24;33.228532;130.451328;Oki C.;Yabe;Alien;14
+A9;Sep-22;32.90376;130.550176;Tamana C.;Kikuchi;Alien;4
+A10;May-22;33.18742;130.104916;Shiroishi C. (1);Rokkaku;Alien;3
+A11;Jun-22;33.187248;130.198844;Shiroishi C. (2);Rokkaku;Alien;2
+A12;Jun-22;33.19000;130.21472;Shiroishi C. (3);Rokkaku;Alien;1
+A13;Jun-22;33.18667;130.16083;Shiroishi C. (4);Rokkaku;Alien;22
+A14;May-22;33.2029;130.0843;Takeo C. (1);Rokkaku;Alien;2
+A15;May-22;33.210134;130.061125;Takeo C. (2);Rokkaku;Alien;1
+A16;Aug-22;33.19028;130.04361;Takeo C. (3);Rokkaku;Alien;1
