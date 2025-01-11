@@ -27,7 +27,7 @@ rivers_json_polygons_filtered <- rivers_json_polygons %>%
 
 
 # loading map data
-japan_sf <- st_read("C:/Users/bogda/Documents/PhD/Fish/map/jpn_adm_2019_GDB.gdb") # read prefectures map
+japan_sf <- st_read("~/jpn_adm_2019_GDB.gdb") # read prefectures map
 st_crs(japan_sf) <- 4326 # assign coordinates
 
 # colors
